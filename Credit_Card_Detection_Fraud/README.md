@@ -8,7 +8,7 @@ The primary goal is to develop a classification model capable of accurately iden
 
 ## Dataset
 
-- Source: Kaggle – Credit Card Fraud Detection
+- Source: [Kaggle – Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 - Size: ~150 MB
 - Features: 30 variables including anonymized features (V1 to V28), `Time`, `Amount`, and the target variable `Class` (0 = legitimate, 1 = fraud)
 

@@ -1,2 +1,4 @@
 Credit[[:space:]]Card[[:space:]]Detection[[:space:]]Fraud/data/creditcard.csv filter=lfs diff=lfs merge=lfs -text
 Sentiment[[:space:]]Analysis[[:space:]]on[[:space:]]Tweets/data/training.1600000.processed.noemoticon.csv filter=lfs diff=lfs merge=lfs -text
+Credit_Card_Detection_Fraud/data.zip filter=lfs diff=lfs merge=lfs -text
+Sentiment_Analysis_on_Tweets/data.zip filter=lfs diff=lfs merge=lfs -text
